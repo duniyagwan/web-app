@@ -2,13 +2,17 @@
 /* CSS Document */
 
 .top  {
-	padding-right:4em;
+	padding:2em;
 	margin:1em;
 	border:1px solid #000;
 	background-color:#CCC;
-	width:20em;
-	height:13em;
-	
+	width:25em;
+	height:17em;
+
+}
+
+.label {
+	padding-bottom:2em;
 }
 
 body {
@@ -18,7 +22,7 @@ body {
 html{
 	border:1px solid #000;
 	width:38.5em;
-	height:20em;
+	height:30em;
 	margin-left:30em;
 	margin-top:5em;
 	
@@ -31,3 +35,46 @@ button {
 .top label {
 	padding:0.5em;
 }
+
+.box {
+	background-color:#CCC;
+	padding:0.3em;
+	margin-top: 0.75em;
+}
+
+ input {
+	
+}
+
+.inputField {
+	margin-bottom: 1em;
+}
+
+label {
+	position: absolute;
+}
+
+.inputArea {
+	position: relative;
+	left: 14em;
+	top: 0.45em;
+}
+
+select {
+	position: relative;
+	left: 5em;
+}
+
+#income, #expenses {
+	position: relative;
+	left: 6em;
+	margin-right: 7em;
+}
+
+#expenses {
+	margin-left: 1.40em;
+}
+.subject  {
+	background-color:#CCC;
+}
+ 
