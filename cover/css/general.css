@@ -2,38 +2,42 @@
 /* CSS Document */
 
 html {
-	background-color:#8adbfb;
+	background-color:#9CC;
 	margin:0;
 	padding:0;
 	
 }
 
 
-
-
 body {
 	
 	margin:0 auto;
-	padding:0;
-	width:30%;
+	padding:0 auto;
+	
 	
 }
 
  img {
-	padding-left:4em;
+	padding-left:10em;
+	margin-top:4em;
+	padding-bottom:7em;
+	
 }
+
+
 
 h1 {
 	font-family:Tahoma, Geneva, sans-serif;
 	float:right;
-	padding-left:1em;
-	font-size:40px;
+	padding-right:10em;
+	font-size:45px;
+	margin-top:2em;
 }
 
 body li {
 	list-style:none;
 	font-size:40px;
-	background-color:#9f61e2;
+	background-color:#a47ed8;
 	font-family:Tahoma, Geneva, sans-serif;
 	margin-top:1em;
 }
