@@ -5,7 +5,7 @@
 	padding:2em;
 	margin:1em;
 	border:1px solid #000;
-	background-color:#CCC;
+	background-color:#c9b1ec;
 	width:25em;
 	height:17em;
 
@@ -37,14 +37,11 @@ button {
 }
 
 .box {
-	background-color:#CCC;
+	background-color:#c9b1ec;
 	padding:0.3em;
 	margin-top: 0.75em;
 }
 
- input {
-	
-}
 
 .inputField {
 	margin-bottom: 1em;
