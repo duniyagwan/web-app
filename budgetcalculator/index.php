@@ -44,42 +44,52 @@ $total_expenses = $housing + $communication + $household + $transportation + $fi
 			</select>
 		
 			
-		
-          <label for="income">INCOME</label>
+		<div class="box">
+          <label for="income">INCOME  $</label>
           <input type="number" id="income" name="income">
         
 	 			
-          <label for="expense">EXPENSES</label>
-          <input type="number" id="expenses" name="expense"  value="<?php if(isset($total_expenses)){ echo $total_expenses;}?>">
-	
-	 	<div class="top">		
-          <label for="housing">HOUSING</label>
-          <input type="number" id="housing" name="housing" placeholder="0">
+          <label for="expenses">EXPENSES  $</label>
+          <input type="number" id="expenses" name="expenses"  value="<?php if(isset($total_expenses)){ echo $total_expenses;}?>">
+		</div>
+		
+	 	<div class="top">
+			<div class="inputField">		
+			  <label for="housing">HOUSING</label>
+			  <input type="number" class="inputArea" id="housing" name="housing" placeholder="0">
+			</div>
 		
 	  
-		
+			<div class="inputField">
 	      <label for="communication">COMMUNICATION</label>
-          <input type="number" id="communication" name="communication" placeholder="0">
-	
-	 			
+          <input type="number" class="inputArea" id="communication" name="communication" placeholder="0">
+			</div>
+			
+	 		<div class="inputField">	
           <label for="household">HOUSE HOLD</label>
-          <input type="number" id="household" name="household"  placeholder="0">
-	
+          <input type="number" class="inputArea" id="household" name="household"  placeholder="0">
+			</div>	
 			
+			<div class="inputField">
           <label for="transportation">TRANSPORTATION</label>
-          <input type="number" id="transportation" name="transportation"  placeholder="0">
-	
+          <input type="number" class="inputArea" id="transportation" name="transportation"  placeholder="0">
+			</div>
 			
+			<div class="inputField">
           <label for="financial">FINANCIAL</label>
-          <input type="number" id="financial" name="financial"  placeholder="0">
-	
-	 		
+          <input type="number" class="inputArea" id="financial" name="financial"  placeholder="0">
+			</div>
+			
+	 		<div class="inputField">
           <label for="entertainment">ENTERTAINMENT</label>
-          <input type="number" id="entertainment" name="entertainment"  placeholder="0">
-	
-	 				
-          <label for="medical">MEDICAL/HEALTH</label>
-          <input type="number" id="medical" name="medical"  placeholder="0">
+          <input type="number" class="inputArea" id="entertainment" name="entertainment"  placeholder="0">
+			</div>
+			
+	 		<div class="inputField">		
+          <label for="medical">MEDICAL/ HEALTH</label>
+          <input type="number" class="inputArea" id="medical" name="medical"  placeholder="0">
+		  </div>
+		  
 		</div>
 	 	 <button>Calculate</button>	
 	
