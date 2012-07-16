@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top  {
+	padding-right:4em;
+	margin:1em;
+	border:1px solid #000;
+	background-color:#CCC;
+	width:20em;
+	height:13em;
+	
+}
+
+body {
+	background-color:#9CC;
+}
+
+html{
+	border:1px solid #000;
+	width:38.5em;
+	height:20em;
+	margin-left:30em;
+	margin-top:5em;
+	
+}
+
+button {
+	float:right;
+}
+
+.top label {
+	padding:0.5em;
+}
