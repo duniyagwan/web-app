@@ -1,0 +1,16 @@
+-Progress Report-
+
+
+ 1. I am working on the database info for the app and an additional page to view the stored data.
+ 
+ 2. yes!gotten it to calculate digits entered.
+
+ 3. To finish up the database info and have the app almost ready. 
+ 
+ 4. Learning more about php and javascript
+
+ 5. Getting the calculate to function, was a bit challenging but interesting
+
+ 6. Still challenging but i guess the frustrating part is kind of over
+ 
+ 7. yes,a couple of times. 
