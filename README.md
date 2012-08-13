@@ -15,7 +15,7 @@ web-app
  Author
 
 
- Gwanzwang Duniya : @duniyagwan
+ Gwanzwang Duniya : [@duniyagwan](https://github.com/duniyagwan)
 
 
 
