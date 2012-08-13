@@ -4,10 +4,10 @@ web-app
 - [Budget Calculator](http://invis.io/CB441OJZ)
 
 
- ####MONTHLY BUDGET CALCULATOR
+ ###MONTHLY BUDGET CALCULATOR
 
 
- DESCRIPTION
+ ##DESCRIPTION
 
  This is an app you can use to calculate your monthly spending and expenditure
 
